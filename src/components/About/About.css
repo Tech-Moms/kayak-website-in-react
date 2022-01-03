@@ -1,0 +1,23 @@
+.about-page {
+    padding: 50px;
+    background-color: #6b9b5d;
+}
+
+.about-flex {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.about-image {
+    border-radius: 80%;
+    height: 400px;
+}
+
+.about-main-text {
+    width: 500px;
+}
+
+.about-additional-text {
+    margin-top: 50px;
+}
